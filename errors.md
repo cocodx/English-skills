@@ -75,3 +75,6 @@
 | It's about ... / felt life is meaningless | It was about ... / felt life was meaningless | #时态 | 2026-10-15 | 待巩固 |
 | made me down / abide the law / 8 hours one day / the lives in China is | made me feel down / abide by the law / eight hours a day / life in China is | #搭配 | 2026-10-15 | 待巩固 |
 | the big guy called Li told the media, we have to ...（转述断裂） | told the media that + 完整句子 | #转述 #句型 | 2026-10-15 | 待巩固 |
+| Q2 religious（空格前 their，后 was） | school（要填单数名词；选错段落） | #阅读 #雅思 #语法线索 | 2026-10-15 | 待巩固 |
+| Q5 Paris | Venice（Paris 是同段干扰地名） | #阅读 #雅思 #干扰词 | 2026-10-15 | 待巩固 |
+| Q8 FALSE | TRUE（childhood = upbringing；同义替换没认出） | #阅读 #雅思 #同义替换 | 2026-10-15 | 待巩固 |
