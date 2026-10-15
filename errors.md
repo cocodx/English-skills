@@ -57,3 +57,6 @@
 | Zelensky said it's unjust（转述） | Zelensky said it was unjust | #时态 | 2026-10-14 | 待巩固 |
 | Ukraine only can hit for yandex's data center | Ukraine can only hit ...；Yandex 大写；hit 后不加 for | #语序 #介词 #大小写 | 2026-10-14 | 待巩固 |
 | 把别处看到的内容混进复述 | 复述只写这篇文章说的 | #转述 #复述 | 2026-10-14 | 待巩固 |
+| Q8 coffee（空格前有 a） | cafe（要填可数单数名词） | #听力 #雅思 #语法线索 | 2026-10-14 | 待巩固 |
+| Q9 link（空格后是 are） | videos（要填复数；link 是后面出现的干扰词） | #听力 #雅思 #干扰词 | 2026-10-14 | 待巩固 |
+| Q10 Rooms | lockers（答案在提问里，rooms 是地点干扰） | #听力 #雅思 #干扰词 | 2026-10-14 | 待巩固 |
