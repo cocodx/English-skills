@@ -60,3 +60,18 @@
 | Q8 coffee（空格前有 a） | cafe（要填可数单数名词） | #听力 #雅思 #语法线索 | 2026-10-14 | 待巩固 |
 | Q9 link（空格后是 are） | videos（要填复数；link 是后面出现的干扰词） | #听力 #雅思 #干扰词 | 2026-10-14 | 待巩固 |
 | Q10 Rooms | lockers（答案在提问里，rooms 是地点干扰） | #听力 #雅思 #干扰词 | 2026-10-14 | 待巩固 |
+| limited Ukraine's action | restricted Ukraine's strikes（action 太泛，指攻击用 strikes/attacks） | #搭配 | 2026-10-15 | 待巩固 |
+| not as well Russia | but not Russia's / and not Russia's（not as well 不是固定搭配） | #句型 #连接 | 2026-10-15 | 待巩固 |
+| ridicouls | ridiculous（形容词，不加 s） | #拼写 | 2026-10-15 | 待巩固 |
+| others believe that is ridiculous | others believe that the idea is ridiculous / others think it is ridiculous（缺主语） | #句型 | 2026-10-15 | 待巩固 |
+| AI is conscious（说得太肯定） | AI could be conscious（原文是"可能"） | #复述 #精确度 | 2026-10-15 | 待巩固 |
+| Sir（听写，实为 Jerry） | Jerry（句首人名） | #听写 #听力 #句首 | 2026-10-15 | 待巩固（第 2 次句首听错） |
+| a（听写，实为 I have） | I have（弱读） | #听写 #听力 #弱读 | 2026-10-15 | 待巩固 |
+| five clock（听写，实为 5 o'clock） | 5 o'clock（o' 弱读） | #听写 #听力 #弱读 | 2026-10-15 | 待巩固 |
+| 问号后 a 小写 | 新句首要大写 | #大小写 | 2026-10-15 | 待巩固 |
+| 2 BBC news / a bad news | two BBC news articles / some bad news（news 不可数） | #不可数 | 2026-10-15 | 待巩固 |
+| raining day / disappionted | rainy day / disappointed | #拼写 #词形 | 2026-10-15 | 待巩固 |
+| the chinese government | the Chinese government | #大小写 | 2026-10-15 | 待巩固（第 3 次大小写类） |
+| It's about ... / felt life is meaningless | It was about ... / felt life was meaningless | #时态 | 2026-10-15 | 待巩固 |
+| made me down / abide the law / 8 hours one day / the lives in China is | made me feel down / abide by the law / eight hours a day / life in China is | #搭配 | 2026-10-15 | 待巩固 |
+| the big guy called Li told the media, we have to ...（转述断裂） | told the media that + 完整句子 | #转述 #句型 | 2026-10-15 | 待巩固 |

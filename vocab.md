@@ -33,6 +33,19 @@
 | ballistic missile | 弹道导弹 | a Russian ballistic missile attack | 2026-10-14 |
 | respite | 喘息、缓和 | Ukraine doesn't deserve the respite a ceasefire would bring | 2026-10-14 |
 | demur | 婉拒、不愿表态 | he demurred when asked if Russia had broken a ceasefire | 2026-10-14 |
+| resume | 重新开始 | Ukraine will resume strikes（复述中已用对 1 次） | 2026-10-15 |
+| at someone's behest | 应某人的要求/指示 | restricted attacks at Washington's behest | 2026-10-15 |
+| defiant | 不服软的、强硬的 | a more defiant tone | 2026-10-15 |
+| affinity | 亲近感、偏好 | an affinity for autocratic leaders | 2026-10-15 |
+| conscious / consciousness | 有意识的 / 意识 | AI could be conscious | 2026-10-15 |
+| sentient | 有感知能力的 | potentially sentient AI tools | 2026-10-15 |
+| susceptible (to) | 易受……影响的 | more susceptible to tech problems | 2026-10-15 |
+| outlier | 异类、与众不同的一个 | Anthropic is an outlier | 2026-10-15 |
+| ridiculous / absurd | 荒谬的 | others think the idea is absurd | 2026-10-15 |
+| o'clock | ……点钟（of the clock 的缩写） | I have 5 o'clock | 2026-10-15 |
+| directionless | 没有方向感的、迷茫的 | I felt directionless（日记中已用对 1 次） | 2026-10-15 |
+| abide by | 遵守（规则、法律） | abide by the labour law | 2026-10-15 |
+| the middle class | 中产阶级 | reach the middle class | 2026-10-15 |
 
 ## 新闻转述动词（仅作了解，未练习）
 warned、accused、described as、called for、confirmed、echoed
@@ -45,4 +58,6 @@ warned、accused、described as、called for、confirmed、echoed
 | 规律 | 例子 | 发现日期 |
 |------|------|----------|
 | t 在两个元音之间读成轻快的 d（flap T，美式） | Calcutta ≈ "Calcudda"，water ≈ "wadder" | 2026-10-14 |
-| 句首第一个词容易听漏（录音起头太突然） | other → Mother（漏了 /m/） | 2026-10-14 |
+| 句首第一个词容易听错（录音起头太突然；后面有逗号时常是称呼或人名） | other → Mother（漏了 /m/）；Sir → Jerry | 2026-10-14、2026-10-15 |
+| 短词弱读：I have 读得很轻，听起来像 "a" | I have 5 o'clock → a five clock | 2026-10-15 |
+| o'clock 的 o' 读得很轻，只剩 clock | five o'clock → five clock | 2026-10-15 |
