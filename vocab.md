@@ -81,6 +81,18 @@
 | percentage point | 百分点（60% 到 90% 是涨了 30 个百分点） | up by 30 percentage points | 2026-10-18 |
 | overtake / surpass | 超过（surpass 已在写作中用对 1 次） | Australia overtook Japan | 2026-10-18 |
 | remain | 保持、仍然是 | Brazil remained the lowest | 2026-10-18 |
+| waive | 免除、暂停执行（规定、制裁） | Trump has waived several Russia sanctions（复述中已用对 1 次） | 2026-10-18 |
+| levy | 征收（关税、税款） | levy tariffs of up to 100% | 2026-10-18 |
+| circumvent | 绕过、规避 | vessels used to circumvent embargoes | 2026-10-18 |
+| capitulate | 屈服、投降 | accused Trump of capitulating to Moscow | 2026-10-18 |
+| tantamount to | 等同于 | tantamount to the US investing in Russia's war effort | 2026-10-18 |
+| unfortunate | 令人遗憾的（外交上克制的批评）；也指不走运的 | it was unfortunate that the US decided to disregard the sanctions | 2026-10-18 |
+| tainted | 被污染的 | lead-tainted food（复述中尝试使用，拼写需改） | 2026-10-18 |
+| inedible | 不能吃的 | inedible paint | 2026-10-18 |
+| confiscation | 没收 | the confiscation of 500,000 yuan | 2026-10-18 |
+| tamper with | 篡改、擅自动手脚 | tampering with blood tests | 2026-10-18 |
+| cover up | 掩盖（名词：cover-up） | attempted to cover up the incident | 2026-10-18 |
+| be sentenced to ... in prison / be jailed for life | 被判……监禁 / 被判终身监禁 | was sentenced to life in prison | 2026-10-18 |
 | be forced to do | 被迫做某事 | I don't like being forced to do things | 2026-10-17 |
 
 ## 新闻转述动词（仅作了解，未练习）

@@ -121,3 +121,7 @@
 | made more than double for this rate | more than doubling its 2005 level | #写作 #数字描述 | 2026-10-18 | 待巩固 |
 | at 2020 / among three countries | in 2020 / of the three | #写作 #介词 | 2026-10-18 | 待巩固 |
 | 用逗号连接两个完整句子（Australia had get ... with 80%, it surpassed ...） | 用句号或连词隔开 | #标点 | 2026-10-18 | 待巩固（第 2 次） |
+| posioning | poisoning | #拼写 | 2026-10-18 | 待巩固 |
+| poisoning to children | poisoning children（poison 后直接接宾语，不加 to） | #搭配 #介词 | 2026-10-18 | 待巩固 |
+| leading-tained | lead-tainted（lead 是"铅"；leading 是"领导的"；tainted 拼写；后面要接 food） | #拼写 #词义 | 2026-10-18 | 待巩固 |
+| was found poisoning（意思是"被发现正在毒害"） | was found guilty of poisoning（被认定有罪） | #搭配 #精确度 | 2026-10-18 | 待巩固 |
