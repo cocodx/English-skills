@@ -109,3 +109,15 @@
 | Q7 collected（bat 后要填名词） | droppings（bat droppings；collected 只是修饰它的分词） | #阅读 #雅思 #语法线索 | 2026-10-17 | 待巩固 |
 | Q2 FALSE（实为 NOT GIVEN；被 without the need 与 were needed 的表面词带偏） | NOT GIVEN（原文没说工匠需不需要技能；FALSE 需要明确矛盾） | #阅读 #雅思 #NG判断 #过度推理 | 2026-10-17 | 待巩固 |
 | Q2 ring（核心名词是 timber posts） | (timber) posts（被放进坑里的是木桩，ring 只是排列形状；放回原句读一遍） | #阅读 #雅思 #取错邻近词 | 2026-10-17 | 待巩固（同类第 2 次） |
+| 概述里混入具体数字和细节（90%、30%） | 概述不写具体数字（Simon：Overview 只写大趋势和主要对比） | #写作 #Task1 #结构 | 2026-10-18 | 待巩固 |
+| These countries were getting new households with internet access | the proportion of households with internet access rose in all three countries | #写作 #Task1 #概述 | 2026-10-18 | 待巩固 |
+| largest population for the internet access / rates of households | highest proportion / percentage of households | #写作 #词义 | 2026-10-18 | 待巩固 |
+| it up to 90%（缺动词） | it rose to 90% | #写作 #句型 | 2026-10-18 | 待巩固 |
+| took 30% up（60%→90%） | rose by 30 percentage points（percent ≠ percentage points） | #写作 #数字描述 | 2026-10-18 | 待巩固 |
+| owe the largest | had the highest（owe 是"欠"） | #写作 #词义 | 2026-10-18 | 待巩固 |
+| it didn't get a big gap than Australia only 5% | the gap with Australia was only 5 percentage points | #写作 #数字描述 #比较 | 2026-10-18 | 待巩固 |
+| had get the first position / still got the second rank | moved into first place / remained in second place | #写作 #搭配 | 2026-10-18 | 待巩固 |
+| surpassed Japan with 2% | 2 percentage points ahead of Japan | #写作 #数字描述 | 2026-10-18 | 待巩固 |
+| made more than double for this rate | more than doubling its 2005 level | #写作 #数字描述 | 2026-10-18 | 待巩固 |
+| at 2020 / among three countries | in 2020 / of the three | #写作 #介词 | 2026-10-18 | 待巩固 |
+| 用逗号连接两个完整句子（Australia had get ... with 80%, it surpassed ...） | 用句号或连词隔开 | #标点 | 2026-10-18 | 待巩固（第 2 次） |

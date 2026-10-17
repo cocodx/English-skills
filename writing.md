@@ -5,7 +5,7 @@
 
 ---
 
-## 1. Simon IELTS Task 1 Notes（第一课，2026-10-17）
+## 1. Simon IELTS Task 1 Notes（第一课，2026-10-18）
 
 **四段结构**
 
@@ -41,7 +41,7 @@
 
 | 日期 | 视频 | 带走的点 | 默写结果 | 3 天后复习 | 7 天后复习 |
 |------|------|----------|----------|------------|------------|
-| 2026-10-17 | Simon Task 1 第一课 | 四段结构；Overview 的规则 | 待默写 | 2026-10-20 | 2026-10-24 |
+| 2026-10-18 | Simon Task 1 第一课 | 四段结构；Overview 的规则 | 待默写 | 2026-10-21 | 2026-10-25 |
 
 ---
 
@@ -49,7 +49,7 @@
 
 | 日期 | 题型 | 题目 | 位置 |
 |------|------|------|------|
-| 2026-10-17（待写） | Task 1 表格 | 三个国家家庭上网率（练习数据，虚构） | 写好后记在当天 daily 的"写作练习"小节；数据见 `task1_practice_data.xlsx` |
+| 2026-10-18 | Task 1 表格 | 三个国家家庭上网率（练习数据，虚构） | 已写（第一篇），原文、修改版和分析见 `daily/2026-10-18.md`；数据见 `task1_practice_data.xlsx`；10-21 重写概述 |
 
 **当前练习题（Task 1，数据是虚构的，只用来练结构）**
 
@@ -72,7 +72,17 @@
 
 | 句型 | 例句 | 适用场合 |
 |------|------|----------|
-| （待补充） | | |
+| Overall, the proportion of ... rose in all three countries | Overall, the proportion of households with internet access rose in all three countries. | Overview 第 1 句（主要趋势） |
+| X remained the lowest throughout | Brazil remained the lowest throughout. | Overview 第 2 句（关键对比） |
+| rose from A to B / up by N percentage points | It rose from 60% to 90%, up by 30 percentage points. | 描述变化（百分比之间的差用 percentage points） |
+| X had the highest ..., at N% | Japan had the highest proportion, at 65%. | 描述最高/最低 |
+| the gap with X was N percentage points | The gap with Australia was only 5 percentage points. | 描述差距 |
+| N percentage points ahead of X | Australia was 2 percentage points ahead of Japan. | 描述超出 |
+| moved into first place / remained in second place | Australia moved into first place at 80%. | 描述名次变化 |
+| more than doubling / more than quadrupled | Brazil's figure more than doubled. | 描述倍数 |
+| followed by | Australia was first at 90%, followed by Japan at 85%. | 排序 |
+
+> 以上句型是批改中整理的，状态为"待练习"，自己用对一次后再标记为已掌握。
 
 ---
 

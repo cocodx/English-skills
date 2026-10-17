@@ -77,6 +77,10 @@
 | glacier | 冰川 | glaciers carried the bluestones | 2026-10-17 |
 | sceptical | 持怀疑态度的 | most archaeologists have remained sceptical | 2026-10-17 |
 | curative | 有疗效的 | bluestones were thought to have curative powers | 2026-10-17 |
+| proportion | 比例、占比 | the proportion of households with internet access | 2026-10-18 |
+| percentage point | 百分点（60% 到 90% 是涨了 30 个百分点） | up by 30 percentage points | 2026-10-18 |
+| overtake / surpass | 超过（surpass 已在写作中用对 1 次） | Australia overtook Japan | 2026-10-18 |
+| remain | 保持、仍然是 | Brazil remained the lowest | 2026-10-18 |
 | be forced to do | 被迫做某事 | I don't like being forced to do things | 2026-10-17 |
 
 ## 新闻转述动词（仅作了解，未练习）
