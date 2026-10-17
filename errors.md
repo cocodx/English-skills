@@ -125,3 +125,4 @@
 | poisoning to children | poisoning children（poison 后直接接宾语，不加 to） | #搭配 #介词 | 2026-10-18 | 待巩固 |
 | leading-tained | lead-tainted（lead 是"铅"；leading 是"领导的"；tainted 拼写；后面要接 food） | #拼写 #词义 | 2026-10-18 | 待巩固 |
 | was found poisoning（意思是"被发现正在毒害"） | was found guilty of poisoning（被认定有罪） | #搭配 #精确度 | 2026-10-18 | 待巩固 |
+| 漏听 ever（Don't ever let ...） | Don't ever let somebody tell you ...（ever 与 don't 连读被吞掉；漏掉后句子仍通顺） | #听写 #听力 #弱读 | 2026-10-18 | 待巩固（小词漏听第 4 次） |
