@@ -46,6 +46,13 @@
 | directionless | 没有方向感的、迷茫的 | I felt directionless（日记中已用对 1 次） | 2026-10-15 |
 | abide by | 遵守（规则、法律） | abide by the labour law | 2026-10-15 |
 | the middle class | 中产阶级 | reach the middle class | 2026-10-15 |
+| bystander | 旁观者、路过的人 | a bystander stopped him | 2026-10-17 |
+| intervene | 介入、出手干预 | people who intervened | 2026-10-17 |
+| counter-offensive | 反攻 | Ukraine's counter-offensive | 2026-10-17 |
+| liberate | 解放、收复 | liberated 277 sq km | 2026-10-17 |
+| credentials | 资历、资质 | her legal credentials | 2026-10-17 |
+| scrutiny | 严格审视 | intense scrutiny from the press | 2026-10-17 |
+| shot dead | 开枪打死（shoot–shot–shot） | shot dead a teacher | 2026-10-17 |
 
 ## 新闻转述动词（仅作了解，未练习）
 warned、accused、described as、called for、confirmed、echoed

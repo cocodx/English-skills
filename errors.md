@@ -78,3 +78,12 @@
 | Q2 religious（空格前 their，后 was） | school（要填单数名词；选错段落） | #阅读 #雅思 #语法线索 | 2026-10-15 | 待巩固 |
 | Q5 Paris | Venice（Paris 是同段干扰地名） | #阅读 #雅思 #干扰词 | 2026-10-15 | 待巩固 |
 | Q8 FALSE | TRUE（childhood = upbringing；同义替换没认出） | #阅读 #雅思 #同义替换 | 2026-10-15 | 待巩固 |
+| shooted dead | shot dead（不规则动词 shoot–shot–shot） | #不规则动词 | 2026-10-17 | 待巩固 |
+| one teacher and 4 students（人数与原文不符） | a teacher and three children（共 4 名遇难者） | #复述 #精确度 | 2026-10-17 | 待巩固 |
+| theacher | teacher | #拼写 | 2026-10-17 | 待巩固 |
+| Operation succeed | Operation Vivaldi（行动的名字） | #复述 #精确度 | 2026-10-17 | 待巩固 |
+| has push | has pushed（现在完成时：has + 过去分词） | #时态 #现在完成时 | 2026-10-17 | 待巩固 |
+| pushed Russia back 277 square kilometres | liberated 277 square kilometres（277 是面积，不是距离） | #复述 #精确度 | 2026-10-17 | 待巩固 |
+| StartLink | Starlink | #拼写 | 2026-10-17 | 待巩固 |
+| after an interview | after less than five days（原文标题） | #复述 #精确度 | 2026-10-17 | 待巩固 |
+| she didn't get any credentials（说得太绝对） | she was criticised for her first briefing and her legal credentials | #复述 #精确度 | 2026-10-17 | 待巩固 |
