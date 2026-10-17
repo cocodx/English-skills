@@ -92,3 +92,14 @@
 | 漏听 and the Great Pumpkin 里的 the | and the Great Pumpkin（the 弱读） | #听写 #听力 #弱读 | 2026-10-17 | 待巩固 |
 | religon | religion | #拼写 | 2026-10-17 | 待巩固 |
 | 漏冒号、逗号；great pumpkin 小写 | people: religion, politics, and the Great Pumpkin（Great Pumpkin 是名字，要大写） | #标点 #大小写 | 2026-10-17 | 待巩固 |
+| drived my car to there | drove there（drive–drove；there 前不加 to） | #不规则动词 #搭配 | 2026-10-17 | 待巩固 |
+| at satarday / on tomorrow | on Saturday / tomorrow（tomorrow 前不加介词） | #介词 | 2026-10-17 | 待巩固 |
+| collgues / Csocto / satarday / potatos / galic / rostaed / oninons / dollors | colleagues / Costco / Saturday / potatoes / garlic / roasted / onions / dollars | #拼写 | 2026-10-17 | 待巩固 |
+| I don't want / he can't hear / It costs（转述或叙述过去） | I didn't want / he couldn't hear / It cost | #时态 #转述 | 2026-10-17 | 待巩固 |
+| asking me go / I replied me / sent me he can't | asking me to go / I replied that / texted me that | #句型 | 2026-10-17 | 待巩固 |
+| Since I arrived | When I arrived（since 表原因，不表时间） | #连接词 | 2026-10-17 | 待巩固 |
+| expressed the gratitude of being inviting his home | thanked him for inviting me to his home | #搭配 | 2026-10-17 | 待巩固 |
+| small breads / daily groceries includes | bread rolls / groceries, including（bread 不可数） | #不可数 #搭配 | 2026-10-17 | 待巩固 |
+| I dislike the forcing of me doing | I don't like being forced to do | #被动 #句型 | 2026-10-17 | 待巩固 |
+| keller / Maybe（句中）/ Ok | Keller / maybe / OK | #大小写 | 2026-10-17 | 待巩固（大小写类第 4 次） |
+| 逗号连接两个完整句子 | 用句号或连词隔开 | #标点 | 2026-10-17 | 待巩固 |

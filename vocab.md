@@ -53,6 +53,10 @@
 | credentials | 资历、资质 | her legal credentials | 2026-10-17 |
 | scrutiny | 严格审视 | intense scrutiny from the press | 2026-10-17 |
 | shot dead | 开枪打死（shoot–shot–shot） | shot dead a teacher | 2026-10-17 |
+| remind sb to do sth | 提醒某人做某事 | It reminded me to get some food（日记中已用对 1 次） | 2026-10-17 |
+| thank sb for doing sth | 因某事感谢某人 | I thanked him for inviting me | 2026-10-17 |
+| get angry | 生气 | He got angry | 2026-10-17 |
+| be forced to do | 被迫做某事 | I don't like being forced to do things | 2026-10-17 |
 
 ## 新闻转述动词（仅作了解，未练习）
 warned、accused、described as、called for、confirmed、echoed
