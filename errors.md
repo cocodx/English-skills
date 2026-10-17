@@ -128,3 +128,15 @@
 | 漏听 ever（Don't ever let ...） | Don't ever let somebody tell you ...（ever 与 don't 连读被吞掉；漏掉后句子仍通顺） | #听写 #听力 #弱读 | 2026-10-18 | 待巩固（小词漏听第 4 次） |
 | has liberate（语法小游戏选错） | has liberated（has/have + 过去分词；与 10-17 的 has push 同类） | #现在完成时 #挑战 | 2026-10-18 | 待巩固（挑战中再次出错） |
 | on tomorrow（语法小游戏选错） | tomorrow（tomorrow 前不加介词；与 10-17 日记同类） | #介词 #挑战 | 2026-10-18 | 待巩固（挑战中再次出错，第 2 次） |
+| the proportion of cycling（实指骑车上班的人占比） | the proportion of commuters who cycled to work | #写作 #数字描述 | 2026-10-18 | 待巩固 |
+| rose from 8% to 20%, from 2000 to 2020（两个 from；缺变化幅度） | rose from 8% in 2000 to 20% in 2020, an increase of 12 percentage points / more than doubling | #写作 #数字描述 | 2026-10-18 | 待巩固 |
+| 在含具体数字的句子开头用 Overall | Overall 只用于概述（不含具体数字）；细节句直接写 | #写作 #Task1 #结构 | 2026-10-18 | 待巩固 |
+| 12% points / only up by 3%（百分点写法） | 12 percentage points / by only 3 percentage points | #写作 #数字描述 | 2026-10-18 | 待巩固（百分点类第 2 次） |
+| an increase of 12% points more than doubled（缺分词形式） | an increase of 12 percentage points, more than doubling the 2000 figure | #写作 #句型 | 2026-10-18 | 待巩固 |
+| But for City B rose from ...（缺主语） | City B's figure rose from ... / In contrast, City B's proportion rose ... | #写作 #句型 | 2026-10-18 | 待巩固 |
+| CityA（缺空格；前后不统一） | City A | #写作 #拼写 | 2026-10-18 | 待巩固 |
+| Overall, The proportion（逗号后大写） | Overall, the proportion | #写作 #大小写 | 2026-10-18 | 待巩固（大小写类） |
+| the proportion of transportation in city among Cycling and Walking | the proportion of commuters who cycled or walked（概述主语要具体；the city；不乱用大写） | #写作 #概述 | 2026-10-18 | 待巩固 |
+| trended up those years | rose over the period | #写作 #概述 | 2026-10-18 | 待巩固 |
+| took the first place | took first place / remained the most common | #写作 #搭配 | 2026-10-18 | 待巩固 |
+| first place .Public（句号前有空格、后无空格） | first place. Public | #写作 #标点 | 2026-10-18 | 待巩固 |

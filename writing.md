@@ -114,6 +114,10 @@
 | moved into first place / remained in second place | Australia moved into first place at 80%. | 描述名次变化 |
 | more than doubling / more than quadrupled | Brazil's figure more than doubled. | 描述倍数 |
 | followed by | Australia was first at 90%, followed by Japan at 85%. | 排序 |
+| X remained stable / unchanged | Public transport remained stable. | 描述不变 |
+| ..., while ... | Car use fell, while cycling and walking became more popular. | 概述里对比两类趋势 |
+| X was still the most common ... throughout the period | The car was still the most common way to commute throughout the period. | 概述第 2 句（关键对比） |
+| the proportion of commuters who cycled to work | the proportion of commuters who cycled to work rose | 准确写出"占比"的对象 |
 
 > 以上句型是批改中整理的，状态为"待练习"，自己用对一次后再标记为已掌握。
 
