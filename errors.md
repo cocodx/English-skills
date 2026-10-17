@@ -103,3 +103,7 @@
 | I dislike the forcing of me doing | I don't like being forced to do | #被动 #句型 | 2026-10-17 | 待巩固 |
 | keller / Maybe（句中）/ Ok | Keller / maybe / OK | #大小写 | 2026-10-17 | 待巩固（大小写类第 4 次） |
 | 逗号连接两个完整句子 | 用句号或连词隔开 | #标点 | 2026-10-17 | 待巩固 |
+| Q3 aril（Q4 已用 aril；the former/the latter 指代） | seed（nutmeg 来自 seed，mace 来自 aril） | #阅读 #雅思 #指代 | 2026-10-17 | 待巩固 |
+| Q11 control（the island of 后要填地名） | Run（专有名词；control 是同句干扰词） | #阅读 #雅思 #语法线索 #干扰词 | 2026-10-17 | 待巩固 |
+| Q12 Caribbean（1770、secretly 对应的是 Mauritius） | Mauritius（Caribbean 在后一句 later exported，是干扰） | #阅读 #雅思 #干扰词 | 2026-10-17 | 待巩固（干扰词类第 3 次） |
+| Q7 collected（bat 后要填名词） | droppings（bat droppings；collected 只是修饰它的分词） | #阅读 #雅思 #语法线索 | 2026-10-17 | 待巩固 |

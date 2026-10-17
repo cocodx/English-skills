@@ -56,6 +56,17 @@
 | remind sb to do sth | 提醒某人做某事 | It reminded me to get some food（日记中已用对 1 次） | 2026-10-17 |
 | thank sb for doing sth | 因某事感谢某人 | I thanked him for inviting me | 2026-10-17 |
 | get angry | 生气 | He got angry | 2026-10-17 |
+| monopoly | 垄断 | the Dutch had a monopoly over the nutmeg trade | 2026-10-17 |
+| smuggle | 走私、偷运 | smuggled nutmeg plants to safety | 2026-10-17 |
+| cultivate | 种植、培育 | to avoid it being cultivated outside the islands | 2026-10-17 |
+| seize | 夺取、攫取 | seized the Banda Islands by force | 2026-10-17 |
+| commodity | 商品、大宗货物 | an extremely valuable commodity | 2026-10-17 |
+| exclusive | 独家的、排他的 | the Arabs were the exclusive importers | 2026-10-17 |
+| indigenous | 本土的、土生土长的 | indigenous bats in Madagascar | 2026-10-17 |
+| insectivorous | 食虫的 | insectivorous bats | 2026-10-17 |
+| pest | 害虫、有害生物 | rice pests | 2026-10-17 |
+| droppings | （动物的）粪便 | analyse droppings collected from bats | 2026-10-17 |
+| roost | （鸟、蝙蝠）栖息 | the bats sometimes roost in buildings | 2026-10-17 |
 | be forced to do | 被迫做某事 | I don't like being forced to do things | 2026-10-17 |
 
 ## 新闻转述动词（仅作了解，未练习）
