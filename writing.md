@@ -83,6 +83,7 @@
 | 日期 | 题型 | 题目 | 位置 |
 |------|------|------|------|
 | 2026-10-18 | Task 1 表格 | 三个国家家庭上网率（练习数据，虚构） | 已写（第一篇），原文、修改版和分析见 `daily/2026-10-18.md`；数据见 `task1_practice_data.xlsx`；10-21 重写概述 |
+| 2026-10-18 | 数字句型接龙（4 轮） | 骑车上班比例、两城市对比、交通方式概述、博物馆人数先升后降 | 原文、修改版和分析见 `daily/2026-10-18.md`；10-21 凭记忆重写 |
 
 **当前练习题（Task 1，数据是虚构的，只用来练结构）**
 
@@ -118,6 +119,8 @@
 | ..., while ... | Car use fell, while cycling and walking became more popular. | 概述里对比两类趋势 |
 | X was still the most common ... throughout the period | The car was still the most common way to commute throughout the period. | 概述第 2 句（关键对比） |
 | the proportion of commuters who cycled to work | the proportion of commuters who cycled to work rose | 准确写出"占比"的对象 |
+| The number of X rose from A to a peak of B, before falling to C | The number of visitors rose from 120,000 in 2000 to a peak of 240,000 in 2010, before falling to 90,000 in 2020. | 描述先升后降（人数用 number，百分比用 proportion）。**before + -ing = 先……然后……**：before 前面的事先发生，后面的事后发生，主语相同时可省略 |
+| peaked at N | Visitor numbers peaked at 240,000 in 2010. | 描述最高点 |
 
 > 以上句型是批改中整理的，状态为"待练习"，自己用对一次后再标记为已掌握。
 
@@ -126,3 +129,16 @@
 ## 7. Task 2 笔记
 
 （待补充，看 Simon 的 Task 2 视频后记在这里。）
+
+---
+
+## 6. 待复测清单（到期由 AI 主动出题测试）
+
+> 用户说"还没懂，请记住后面测试"的点，以及反复出错的点，记在这里。测试时**不要在题目里泄露答案**；测试通过再标"已通过"。
+
+| 项目 | 内容 | 状态 | 复测日期 |
+|------|------|------|----------|
+| before + -ing | *..., before falling to ...* 的含义（先……然后……）。用户 10-18 说还是不懂，复测前要换一种方式重新讲；测试题例如：把一句 before 句改写成 after 开头，或判断先后顺序 | 待复测（未懂） | 2026-10-21 |
+| 百分点 | percentage points 的写法（不是 12% points） | 待复测（出错 2 次） | 2026-10-21 |
+| has / have + 过去分词 | 现在完成时，动词要变过去分词 | 待复测（出错 2 次） | 2026-10-21 |
+| tomorrow 前不加介词 | on tomorrow 的错 | 待复测（出错 2 次） | 2026-10-21 |
