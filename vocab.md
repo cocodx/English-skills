@@ -67,4 +67,5 @@ warned、accused、described as、called for、confirmed、echoed
 | t 在两个元音之间读成轻快的 d（flap T，美式） | Calcutta ≈ "Calcudda"，water ≈ "wadder" | 2026-10-14 |
 | 句首第一个词容易听错（录音起头太突然；后面有逗号时常是称呼或人名） | other → Mother（漏了 /m/）；Sir → Jerry | 2026-10-14、2026-10-15 |
 | 短词弱读：I have 读得很轻，听起来像 "a" | I have 5 o'clock → a five clock | 2026-10-15 |
+| 小词（I have、to、the）读得又轻又快，容易漏听（内容词反而都能听出来） | I have learned never to discuss → that never discuss；and the Great Pumpkin → and great pumpkin | 2026-10-17 |
 | o'clock 的 o' 读得很轻，只剩 clock | five o'clock → five clock | 2026-10-15 |

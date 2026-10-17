@@ -87,3 +87,8 @@
 | StartLink | Starlink | #拼写 | 2026-10-17 | 待巩固 |
 | after an interview | after less than five days（原文标题） | #复述 #精确度 | 2026-10-17 | 待巩固 |
 | she didn't get any credentials（说得太绝对） | she was criticised for her first briefing and her legal credentials | #复述 #精确度 | 2026-10-17 | 待巩固 |
+| 漏听 I have learned（听成 that） | I have learned（弱读） | #听写 #听力 #弱读 | 2026-10-17 | 待巩固（I have 第 2 次） |
+| 漏听 never to discuss 里的 to | never to discuss（to 弱读） | #听写 #听力 #弱读 | 2026-10-17 | 待巩固 |
+| 漏听 and the Great Pumpkin 里的 the | and the Great Pumpkin（the 弱读） | #听写 #听力 #弱读 | 2026-10-17 | 待巩固 |
+| religon | religion | #拼写 | 2026-10-17 | 待巩固 |
+| 漏冒号、逗号；great pumpkin 小写 | people: religion, politics, and the Great Pumpkin（Great Pumpkin 是名字，要大写） | #标点 #大小写 | 2026-10-17 | 待巩固 |
