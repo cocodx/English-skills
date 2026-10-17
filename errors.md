@@ -107,3 +107,5 @@
 | Q11 control（the island of 后要填地名） | Run（专有名词；control 是同句干扰词） | #阅读 #雅思 #语法线索 #干扰词 | 2026-10-17 | 待巩固 |
 | Q12 Caribbean（1770、secretly 对应的是 Mauritius） | Mauritius（Caribbean 在后一句 later exported，是干扰） | #阅读 #雅思 #干扰词 | 2026-10-17 | 待巩固（干扰词类第 3 次） |
 | Q7 collected（bat 后要填名词） | droppings（bat droppings；collected 只是修饰它的分词） | #阅读 #雅思 #语法线索 | 2026-10-17 | 待巩固 |
+| Q2 FALSE（实为 NOT GIVEN；被 without the need 与 were needed 的表面词带偏） | NOT GIVEN（原文没说工匠需不需要技能；FALSE 需要明确矛盾） | #阅读 #雅思 #NG判断 #过度推理 | 2026-10-17 | 待巩固 |
+| Q2 ring（核心名词是 timber posts） | (timber) posts（被放进坑里的是木桩，ring 只是排列形状；放回原句读一遍） | #阅读 #雅思 #取错邻近词 | 2026-10-17 | 待巩固（同类第 2 次） |

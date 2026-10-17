@@ -67,6 +67,16 @@
 | pest | 害虫、有害生物 | rice pests | 2026-10-17 |
 | droppings | （动物的）粪便 | analyse droppings collected from bats | 2026-10-17 |
 | roost | （鸟、蝙蝠）栖息 | the bats sometimes roost in buildings | 2026-10-17 |
+| hull | 船体 | merchant ships had a broad hull | 2026-10-17 |
+| rudder | 船舵 | steered with large rudders | 2026-10-17 |
+| supersede | 取代 | the trireme was superseded by larger ships | 2026-10-17 |
+| quay | 码头 | towboats drag them to the quay | 2026-10-17 |
+| afloat | 漂浮的 | remained afloat after battles | 2026-10-17 |
+| Neolithic | 新石器时代的 | Neolithic Britons | 2026-10-17 |
+| haul | 拖、拉（重物） | haul these boulders over a great distance | 2026-10-17 |
+| glacier | 冰川 | glaciers carried the bluestones | 2026-10-17 |
+| sceptical | 持怀疑态度的 | most archaeologists have remained sceptical | 2026-10-17 |
+| curative | 有疗效的 | bluestones were thought to have curative powers | 2026-10-17 |
 | be forced to do | 被迫做某事 | I don't like being forced to do things | 2026-10-17 |
 
 ## 新闻转述动词（仅作了解，未练习）
