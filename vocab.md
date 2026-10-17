@@ -93,6 +93,12 @@
 | tamper with | 篡改、擅自动手脚 | tampering with blood tests | 2026-10-18 |
 | cover up | 掩盖（名词：cover-up） | attempted to cover up the incident | 2026-10-18 |
 | be sentenced to ... in prison / be jailed for life | 被判……监禁 / 被判终身监禁 | was sentenced to life in prison | 2026-10-18 |
+| heist | （有预谋的）抢劫案、盗窃案 | the Grand Condé was stolen in a heist | 2026-10-18 |
+| pilfer | 偷（多指小偷小摸） | the diamond was pilfered in an overnight raid | 2026-10-18 |
+| far-fetched | 牵强的、难以置信的 | the apple story may sound far-fetched | 2026-10-18 |
+| tempt fate | 冒险、自找麻烦 | whether the exhibition may be tempting fate | 2026-10-18 |
+| bequeath | （遗嘱中）遗赠 | he bequeathed it to the Institut de France | 2026-10-18 |
+| go on display | 被展出 | goes on display in France | 2026-10-18 |
 | be forced to do | 被迫做某事 | I don't like being forced to do things | 2026-10-17 |
 
 ## 新闻转述动词（仅作了解，未练习）
