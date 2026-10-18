@@ -34,7 +34,7 @@
 |------|------|----------|----------|
 | 听力 | C1 门槛（雅思 7.0） | 相对优势项；Cam 21 Test 1 Part 1 得 7/10（10-14），Test 2 Part 1 得 10/10（10-15），已能躲过日期更改、silk 这类干扰词 | 听写中发现的短板：flap T、句首弱起、短词弱读；Part 2 到 4 还没测 |
 | 口语 | B2 偏下（雅思 5.5） | 不流畅、不敢开口；待摸底后补充 | 待补充 |
-| 阅读 | B2 偏上（雅思 6.5） | 能读懂 BBC 新闻大意；雅思阅读 Passage 1 五篇：10/13、10/13、12/13、12/13、12/13（均为最简单的 Passage 1；Passage 2、3 未测）；判断题累计 25 题对 23，NOT GIVEN 7 题对 6；需稳定到 7.0 | **同段干扰词**（Paris/Venice、Caribbean/Mauritius）、空格前后的语法线索、取了短语里邻近的词而非核心名词（collected/droppings、ring/posts）、NOT GIVEN 偶尔过度推理；比喻义偏中文直译；长难句细节待验证 |
+| 阅读 | B2 偏上（雅思 6.5） | 能读懂 BBC 新闻大意；雅思阅读 Passage 1 七篇：10/13、10/13、12/13、12/13、12/13、11/13、11/13（均为最简单的 Passage 1；Passage 2、3 未测）；判断题累计 37 题对 33，NOT GIVEN 10 题对 9；需稳定到 7.0 | **同句/同段干扰词**（Paris/Venice、Caribbean/Mauritius、slums/suburbs、type/image，已出现 5 次）、空格前后的语法线索、取了短语里邻近的词而非核心名词（collected/droppings、ring/posts）、NOT GIVEN 偶尔过度推理、读题时漏看题干限定词（different）；比喻义偏中文直译；长难句细节待验证 |
 | 写作 | B2 偏下（雅思 5.5） | 2026-10-11 日记约 400 词：能连贯叙述一整天，用了 even though、since、which 等连接结构；但时态、拼写、大小写错误较多；Task 1 首篇（10-18）数字全部准确、4 段结构搭对，但概述混入具体数字、不会区分 percent 和 percentage points | 过去时统一、拼写、大小写、介词冠词、标点；Task 1 数字描述句型（rose by、gap、ahead of、doubled） |
 | 词汇 | 待评估 | 目前确认掌握的新词很少，不要默认我认识难词 | |
 | 语法 | 待评估 | 见下方说明 | |

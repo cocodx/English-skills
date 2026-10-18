@@ -143,3 +143,7 @@
 | has / have + 过去分词 | 现在完成时，动词要变过去分词 | 待复测（出错 2 次） | 2026-10-21 |
 | tomorrow 前不加介词 | on tomorrow 的错 | 待复测（出错 2 次） | 2026-10-21 |
 | with + 名词 + 过去分词 | *with at least 1,200 people arrested*（with 里不能再放 were）。10-18 同一句错了两版，指出后仍未改 | 待复测（出错 2 次） | 2026-10-21 |
+| relocate A to B（读懂句子结构，to 后面是目的地） | 阅读 Q2 的句子没看懂：*relocate the poor workers who lived in the inner-city slums to newly constructed suburbs* | 待复测（没看懂） | 2026-10-21 |
+| was not an option / the only alternative | 阅读 Q10 没看懂：*was not an option*（行不通）+ *the only alternative*（唯一的替代办法）。复测时换新句子 | 待复测（没看懂） | 2026-10-21 |
+| by hand 的含义（人工 vs 机器） | 阅读 Cork Q5：看到原文用斧头，就认为 by hand 不对。复测时换新句子 | 待复测（理解偏字面） | 2026-10-21 |
+| that of / those of 的指代 | 阅读 Cork Q9：*that of* 的 that 指代前面的 image；*the ___ of* 的空格是名词。复测时换新句子，不泄露答案 | 待复测（看晕了） | 2026-10-21 |

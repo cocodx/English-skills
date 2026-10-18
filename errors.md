@@ -155,3 +155,7 @@
 | are supposed to being own by | are believed to be used by（to 后接动词原形；被动 be + 过去分词；新闻里"被认为"用 believed to be） | #被动 #句型 | 2026-10-18 | 待巩固 |
 | owned（原文说所有权从未公开，只说被认为是在使用） | used（复述不要比原文更肯定） | #复述 #精确度 | 2026-10-18 | 待巩固（同类第 3 次） |
 | calling for a revolution like in France（把一位示威者的话当成所有人的诉求） | calling for the prime minister to resign（总体诉求）；个别人的话要标明是谁说的 | #复述 #精确度 #引用 | 2026-10-18 | 待巩固（复述不准确第 4 次） |
+| Q2 slums（题目 better housing in the ___；slums 是同句里原来住的地方） | suburbs（放回原句读一遍：better housing in the slums 不通顺） | #阅读 #雅思 #干扰词 #放回原句 | 2026-10-18 | 待巩固（同句干扰词类第 4 次） |
+| Q10 FALSE（读题时漏看了题干里的 different，题目变成"需要用 cut and cover"，与原文 not an option 冲突） | TRUE（题干是"需要不同于 cut and cover 的方法"，与原文 not an option / the only alternative 一致） | #阅读 #雅思 #漏看关键词 | 2026-10-18 | 待巩固 |
+| Q5 FALSE（no mechanical means ... so done by skilled workers = 只能靠人工） | TRUE（*the only way is by hand* = 没有机械办法；斧头也属于人工） | #阅读 #雅思 #同义替换 | 2026-10-18 | 待巩固 |
+| Q9 type（suit the ___ of quality products；type 是同句干扰词） | image（in keeping with = suit；that of 的 that 指代 image） | #阅读 #雅思 #干扰词 #代词指代 | 2026-10-18 | 待巩固（同句干扰词类第 5 次） |

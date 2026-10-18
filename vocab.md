@@ -121,6 +121,20 @@
 | caretaker government | 看守政府（过渡期临时政府） | a neutral caretaker government for one year | 2026-10-18 |
 | tarnish | 玷污、使失色 | tarnished Rama's image | 2026-10-18 |
 | call for X to do Y | 呼吁（要求）X 做 Y | calls for the prime minister to resign | 2026-10-18 |
+| congestion | 拥堵 | congestion on London's streets | 2026-10-18 |
+| solicitor | （英国）律师，主要处理法律事务和文书 | Charles Pearson, a solicitor | 2026-10-18 |
+| suburb | 郊区 | newly constructed suburbs | 2026-10-18 |
+| relocate | 迁移、搬迁 | relocate the poor workers | 2026-10-18 |
+| ventilation shaft | 通风井 | ventilation shafts were added to the tunnels | 2026-10-18 |
+| trench | 沟、壕沟 | a trench about ten metres wide | 2026-10-18 |
+| (be) not an option | 行不通、不可行 | cut and cover was not an option in this part of the capital | 2026-10-18 |
+| alternative | 替代方案；the only alternative = 唯一的办法 | the only alternative was to tunnel deep underground | 2026-10-18 |
+| buoyant | 能浮起来的 | cork is so buoyant | 2026-10-18 |
+| elasticity | 弹性 | an elasticity that means you can squash it | 2026-10-18 |
+| insulate | 隔热、隔音 | insulating the tree like a coat | 2026-10-18 |
+| substitute | 替代品 | these substitutes are cheaper to manufacture | 2026-10-18 |
+| harvest | 收获、采收 | the first harvest | 2026-10-18 |
+| in keeping with | 与……相称、符合 | its traditional image is in keeping with high quality goods | 2026-10-18 |
 | be forced to do | 被迫做某事 | I don't like being forced to do things | 2026-10-17 |
 
 ## 新闻转述动词（仅作了解，未练习）
