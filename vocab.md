@@ -99,6 +99,13 @@
 | tempt fate | 冒险、自找麻烦 | whether the exhibition may be tempting fate | 2026-10-18 |
 | bequeath | （遗嘱中）遗赠 | he bequeathed it to the Institut de France | 2026-10-18 |
 | go on display | 被展出 | goes on display in France | 2026-10-18 |
+| over（protests over X） | 因为、关于（引出抗议或争议的原因） | protests over staff shortages | 2026-10-18 |
+| erupt | （暴力、冲突）爆发 | violence erupted across France（复述中已用对 1 次） | 2026-10-18 |
+| loot / looting | 抢劫、哄抢 | looting broke out in several cities | 2026-10-18 |
+| ablaze / set alight | 着火的 / 点燃 | buildings were set alight | 2026-10-18 |
+| ransack | 洗劫 | shops were ransacked | 2026-10-18 |
+| dilapidated | 破旧的 | dilapidated facilities in schools | 2026-10-18 |
+| concession | 让步 | attempts at concessions | 2026-10-18 |
 | be forced to do | 被迫做某事 | I don't like being forced to do things | 2026-10-17 |
 
 ## 新闻转述动词（仅作了解，未练习）

@@ -140,3 +140,13 @@
 | trended up those years | rose over the period | #写作 #概述 | 2026-10-18 | 待巩固 |
 | took the first place | took first place / remained the most common | #写作 #搭配 | 2026-10-18 | 待巩固 |
 | first place .Public（句号前有空格、后无空格） | first place. Public | #写作 #标点 | 2026-10-18 | 待巩固 |
+| The travller of mumuse among those years.（只有主语的片段；it 小写开头） | The number of visitors to the museum rose ...（一句话说完） | #写作 #句型 | 2026-10-18 | 待巩固 |
+| mumuse / travller | museum / traveller（更自然：visitors） | #拼写 | 2026-10-18 | 待巩固 |
+| the peak amount 240 | a peak of 240,000 / peaked at 240,000 | #写作 #数字描述 | 2026-10-18 | 待巩固 |
+| 120 / 240 / 90（数据单位是千人，漏了单位） | 120,000 / 240,000 / 90,000（读懂图表单位） | #写作 #数字描述 | 2026-10-18 | 待巩固 |
+| decreased after 2010 to 90 | before falling to 90,000 in 2020 | #写作 #数字描述 | 2026-10-18 | 待巩固 |
+| saturday（星期未大写） | Saturday | #大小写 | 2026-10-18 | 待巩固（大小写类） |
+| with at least 1200 people were arrested（with + 名词内部又放 were；第 1 版指出后第 2 版仍未改） | with at least 1,200 people arrested（with + 名词 + 过去分词） | #句型 #分词 | 2026-10-18 | 待巩固（列入复测） |
+| 1200 | 1,200（千位用逗号） | #数字格式 | 2026-10-18 | 待巩固 |
+| arrested and punished（把"将被惩罚"写成已发生） | with at least 1,200 people arrested（原文只说被捕） | #复述 #精确度 | 2026-10-18 | 待巩固（同类第 2 次） |
+| teacher staff shortaged in School from 15 to 18 | staff shortages in schools and the cost of living（shortages 是名词；漏了第二个原因） | #复述 #拼写 #词性 | 2026-10-18 | 待巩固 |
