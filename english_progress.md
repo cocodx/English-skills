@@ -55,11 +55,11 @@
 ---
 
 ## 3. 当前最常犯的错误（只留 5 条，改掉就删）
-1. **拼写**：包括不规则动词（aet→ate、bougth→bought）和常见词（president、diesel、delicious、satisfied 等）
-2. **过去时用错**：叙述已发生的事时混用现在时（Today is sunshine → It was sunny；we eat → we ate）
-3. **大小写**：专有名词和句首不大写（brisbane、kadek、After 前的句号后小写）
-4. **介词、冠词、代词**：arrived in Brisbane、go to the fish market、I and Kadek → Kadek and I、me bought → I bought
-5. **句型与搭配**：which located → which is located / at（已出现 2 次）；sunshine/sunny；change president 等
+1. **拼写**：包括不规则动词（aet→ate、bougth→bought）和常见词（president、diesel、museum、successful 等）
+2. **大小写**：专有名词、星期和句首（brisbane、saturday、逗号后的 The）
+3. **逗号连接两个完整句子**：要用句号或连词隔开（已出现 3 次）；还有只有主语、缺谓语的片段
+4. **复述不准确**：说得比原文更肯定（AI is conscious、owned）、把一个人的话当成所有人的诉求、漏掉原因（已出现 4 次）
+5. **介词、冠词、转述时态和搭配**：arrived in、tomorrow 前不加 on、转述时态要往回退（I didn't want）、which located → which is located（已 2 次）
 
 ---
 

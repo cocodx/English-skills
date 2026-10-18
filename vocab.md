@@ -106,6 +106,21 @@
 | ransack | 洗劫 | shops were ransacked | 2026-10-18 |
 | dilapidated | 破旧的 | dilapidated facilities in schools | 2026-10-18 |
 | concession | 让步 | attempts at concessions | 2026-10-18 |
+| systematic, widespread and gross human rights violations | 系统性的、广泛的、严重的侵犯人权行为（法律、联合国文件里的固定说法；gross 在这里是"严重的、恶劣的"，不是"粗的"） | 用户 10-18 自己遇到并询问 | 2026-10-18 |
+| vessel | （较大的）船只 | luxury vessels near Wonsan | 2026-10-18 |
+| retreat | 休养地、静修处；撤退 | Kim Jong Un's summer retreat | 2026-10-18 |
+| regime | 政权 | the regime's leadership | 2026-10-18 |
+| defector | 叛逃者 | defectors interviewed by the BBC | 2026-10-18 |
+| extravagant | 奢侈的、铺张的 | an extravagant life | 2026-10-18 |
+| secluded | 僻静的、与世隔绝的 | secluded maritime retreats | 2026-10-18 |
+| be believed to be / be thought to be | 被认为是（新闻里表示未证实的说法） | vessels believed to be used by Kim and his family | 2026-10-18 |
+| pitched battle | 激烈的混战、正面交锋 | fought pitched battles in the centre of Tirana | 2026-10-18 |
+| hurl | 猛扔、投掷 | hurled rocks and petrol bombs | 2026-10-18 |
+| allegation | （未经证实的）指控 | corruption allegations | 2026-10-18 |
+| grievance | 不满、怨愤 | people's grievances | 2026-10-18 |
+| caretaker government | 看守政府（过渡期临时政府） | a neutral caretaker government for one year | 2026-10-18 |
+| tarnish | 玷污、使失色 | tarnished Rama's image | 2026-10-18 |
+| call for X to do Y | 呼吁（要求）X 做 Y | calls for the prime minister to resign | 2026-10-18 |
 | be forced to do | 被迫做某事 | I don't like being forced to do things | 2026-10-17 |
 
 ## 新闻转述动词（仅作了解，未练习）

@@ -150,3 +150,8 @@
 | 1200 | 1,200（千位用逗号） | #数字格式 | 2026-10-18 | 待巩固 |
 | arrested and punished（把"将被惩罚"写成已发生） | with at least 1,200 people arrested（原文只说被捕） | #复述 #精确度 | 2026-10-18 | 待巩固（同类第 2 次） |
 | teacher staff shortaged in School from 15 to 18 | staff shortages in schools and the cost of living（shortages 是名词；漏了第二个原因） | #复述 #拼写 #词性 | 2026-10-18 | 待巩固 |
+| Thoses vessels | Those vessels（those 已是复数，不加 -s） | #拼写 #词形 | 2026-10-18 | 待巩固 |
+| ...coast, Thoses vessels are ...（逗号连接两个完整句子） | 用句号隔开，或用 which 引导从句 | #标点 | 2026-10-18 | 待巩固（逗号连接第 3 次） |
+| are supposed to being own by | are believed to be used by（to 后接动词原形；被动 be + 过去分词；新闻里"被认为"用 believed to be） | #被动 #句型 | 2026-10-18 | 待巩固 |
+| owned（原文说所有权从未公开，只说被认为是在使用） | used（复述不要比原文更肯定） | #复述 #精确度 | 2026-10-18 | 待巩固（同类第 3 次） |
+| calling for a revolution like in France（把一位示威者的话当成所有人的诉求） | calling for the prime minister to resign（总体诉求）；个别人的话要标明是谁说的 | #复述 #精确度 #引用 | 2026-10-18 | 待巩固（复述不准确第 4 次） |
