@@ -118,7 +118,7 @@
 
 1. **先看空格前后的语法线索**：a/an → 单数可数；are → 复数；of 后 → 常是名词或专有名词；their ___ was → 单数名词。
 2. **答案常在前，干扰词在后**：先用日期、数字、关键词定位到那一句，答案通常在同一句；不要被后一句带 later、then、also 的信息带走。
-3. **答案可能藏在提问里**（听力）：如男士问 lockers，女士答 in the changing rooms，答案是 lockers。
+3. **答案可能藏在提问里**（听力）：如男士问 lockers，女士答 in the changing rooms，答案是 lockers；Broadbeach 里采访者问 coffee shops、cinema，说话人只用 them、it 回应，答案是 coffee、cinema。
 4. **同义替换要认出来**：childhood = upbringing；the former / the latter 要小心指代。
 5. **相邻题目也是线索**：Q4 已经用掉的词，Q3 通常不会再用。
 6. **听完一题立刻切到下一题**（听力）；限时练习，阅读每篇约 20 分钟。
@@ -126,7 +126,8 @@
 8. **复盘时把错误分类**：没认出词 / 弱读 / 拼写 / 干扰词 / 语法线索 / 同义替换，记进 errors.md。
 9. **判断题：FALSE 需要明确矛盾**：原文没提到题目的关键点（如 skilled craftsmen）就是 NOT GIVEN，不要过度推理；主语不同（stitching 不需要 ≠ craftsmen 不需要）要看清。
 10. **读题先圈出题干里的限定词**（different、only、more than、nearly always 等）：漏掉一个词，整句意思会反过来（London underground Q10 漏看 different，判断成 FALSE）。另外，原文出现 not 也不一定是 FALSE，要看 not 否定的是什么。
-11. **注意代词指代和同义转述**：原文用 *that of*、*in keeping with*、*no ... has been invented* 这类说法时，要弄清指代和意思（Cork Q9：that of = the image of；Q5：no mechanical means = 只能靠人工）。
+11. **听力写听到的词，不要自己总结**：Broadbeach Q9 听到的是 plants，写成了自己概括的 surroundings；Q10 写了提问里的话题词 entertainment，答案是 cinema。
+12. **注意代词指代和同义转述**：原文用 *that of*、*in keeping with*、*no ... has been invented* 这类说法时，要弄清指代和意思（Cork Q9：that of = the image of；Q5：no mechanical means = 只能靠人工）。
 
 ## 写作视频学习法（Simon 等雅思写作视频）——试行
 2026-10-17 决定试行。起因：看视频时觉得懂了，之后又忘了。原因是看懂和会用是两回事，看视频是被动接收，必须让大脑主动提取。试行一到两周后评估效果，再决定是否调整。
@@ -159,7 +160,7 @@
 - **数量**：每天 **1 到 2 篇**（一篇 = 一个 Part，约 10 题），不加量。
 - **和听写的关系**：听写（Coach Shane，每天 1 句）照旧，是另外一件事，不算在这 1 到 2 篇里。
 - **每篇的复盘**：记录题目、我的答案、正确答案；错题按类别分：没认出词 / 弱读 / 拼写 / 干扰词 / 语法线索；错的地方对照原文回听一遍。写进当天 daily 文件。
-- **目前成绩**：Cam 21 Test 1 Part 1：7/10；Test 2 Part 1：10/10。
+- **目前成绩**：Cam 21 Test 1 Part 1：7/10；Test 2 Part 1：10/10；Test 4 Part 1：4/10（10-18）。
 - **升级条件（用户 2026-10-18 决定）**：同阅读，简单难度（Part 1）练到没有出错，再提升难度。具体标准待确认，AI 的建议是连续 3 篇全对（10/10）。
 - **做题方法**：见"雅思真题练习：做题方法"（先看空格前后的语法线索、警惕后一句的干扰词、听完一题立刻切下一题）。
 

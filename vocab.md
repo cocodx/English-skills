@@ -135,6 +135,10 @@
 | substitute | 替代品 | these substitutes are cheaper to manufacture | 2026-10-18 |
 | harvest | 收获、采收 | the first harvest | 2026-10-18 |
 | in keeping with | 与……相称、符合 | its traditional image is in keeping with high quality goods | 2026-10-18 |
+| motorbike | 摩托车 | I'm on my motorbike today | 2026-10-18 |
+| hairdresser | 理发师、理发店 | I've just been to the hairdresser | 2026-10-18 |
+| council | （地方）议会、市政委员会（和 counsel"建议、律师"不同） | a job interview at the council | 2026-10-18 |
+| spare part | 备用零件 | they had to order a spare part | 2026-10-18 |
 | be forced to do | 被迫做某事 | I don't like being forced to do things | 2026-10-17 |
 
 ## 新闻转述动词（仅作了解，未练习）

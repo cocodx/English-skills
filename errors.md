@@ -159,3 +159,9 @@
 | Q10 FALSE（读题时漏看了题干里的 different，题目变成"需要用 cut and cover"，与原文 not an option 冲突） | TRUE（题干是"需要不同于 cut and cover 的方法"，与原文 not an option / the only alternative 一致） | #阅读 #雅思 #漏看关键词 | 2026-10-18 | 待巩固 |
 | Q5 FALSE（no mechanical means ... so done by skilled workers = 只能靠人工） | TRUE（*the only way is by hand* = 没有机械办法；斧头也属于人工） | #阅读 #雅思 #同义替换 | 2026-10-18 | 待巩固 |
 | Q9 type（suit the ___ of quality products；type 是同句干扰词） | image（in keeping with = suit；that of 的 that 指代 image） | #阅读 #雅思 #干扰词 #代词指代 | 2026-10-18 | 待巩固（同句干扰词类第 5 次） |
+| Q2 motor（词只写了一半） | motorbike（used his ___ 要填完整的交通工具） | #听力 #雅思 #漏词尾 | 2026-10-18 | 待巩固 |
+| Q3 Counsel（答案 hairdresser 在前，council 是后一句干扰词；还拼成 counsel） | hairdresser（council 才是后面的 job interview 地点） | #听力 #雅思 #干扰词 | 2026-10-18 | 待巩固（听力干扰词类） |
+| Q4 空着 | suit（听完一题立刻切下一题；空着不得分，要猜一个） | #听力 #雅思 #切题慢 #空题 | 2026-10-18 | 待巩固 |
+| Q7 popy（coffee 是采访者提问里的词，说话人用 them 指代） | coffee（答案藏在提问里；同 lockers 类） | #听力 #雅思 #答案在提问里 | 2026-10-18 | 待巩固（第 2 次） |
+| Q9 surroundings（自己总结了 around the building） | plants（写听到的词，不要自己总结） | #听力 #雅思 #总结代替听到的词 | 2026-10-18 | 待巩固 |
+| Q10 entertainment（写了提问里的话题词） | cinema（答案是紧接着提到的具体设施，也在提问里） | #听力 #雅思 #答案在提问里 #总结代替听到的词 | 2026-10-18 | 待巩固 |
